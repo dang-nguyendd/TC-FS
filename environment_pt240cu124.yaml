@@ -1,0 +1,29 @@
+name: xlstm
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - cuda=12.4
+  - cuda-nvcc=12.4
+  - m2w64-toolchain # Provides Windows-compatible build tools if needed
+  - vs2015_runtime # Ensures MSVC runtime stability
+  - python=3.11
+  - pip
+  - pytorch=2.4.0
+  - pytorch-cuda=12.4
+  - cmake
+  - ninja
+  - cuda-toolkit=12.4
+  - cuda-cccl=12.4
+  - pip:
+      - pre-commit
+      - ipykernel
+      - dacite
+      - pyyaml
+      - torchmetrics
+      - tqdm
+      - pytest
+      - pytest-xdist
+      - numpy<2.0

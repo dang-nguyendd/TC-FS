@@ -1,0 +1,40 @@
+V04r01 change log:
+
+10-30-26: 25/26 Nadi BT data added
+10-07-26: 25/26 Reunion BT data added
+10-02-26: 2025 HKO, 25/26 Wellington and BOM BT data added;
+          HURDAT2 reanalyzed for 1971-1975;
+          Bug fix that allows reunion_gust to reach output 
+ 7-31-26: 2025 New Delhi BT data added; fix for SAGAR & MEKUNU 2018
+ 7- 6-26: 2025 KMA BT data added
+ 5-20-26: 2025 BT Tokyo, CMA data added; 
+	  bug fix for some Reunion 34kt radii
+ 3-24-26: 22-23,23-24,24-25 Reunion data added
+ 3-11-26: 2025 NHC ATCF data added
+ 3- 4-26: 2025 NHC HURDAT2 data added
+ 1-17-26: 2024 JTWC SH data added
+ 1-10-26: 2024 HONE added in ATCF
+	  2023 JTWC SH data corrected
+12- 4-25: 24/25 BT data for Nadi added
+ 9-30-25: 2024 BT data for JTWC NH and IMD added;
+          Bug fix for storms with multiple tracks from the same source;
+	  Bug fix for extra fill of agency classifications;
+	  Bug fix for radii conversion in tc vitals and tc vightals
+ 8-22-25: 2024 BT data for HKO and 24/25 BT data for Wellington added
+ 7-04-25: 2024 BT data for KMA added
+ 6-04-25: Bug fixes for NADI MSLP and iflag
+ 5-30-25: 24-25 BT data for BOM, NADI BT data for DOVI and FILI 2022 added
+ 5- 9-25: 21-22 BT data for Reunion added
+ 4-26-25: 2024 BT data for NHC ATCF, CMA added
+ 4-18-25: 2024 BT data for NHC HURDAT2 NA added, Tokyo updated
+ 4- 2-25: 2024 BT data for NHC HURDAT2 EPAC, Tokyo added,
+	  Updates to metadata, bug fix for source_usa
+ 3- 6-25: NHC ATCF best track data for HELENE 2024 added
+12-10-24: Correction to FREDDY 2023 in JTWC data
+11-19-24: Updates to 2023 JTWC NH data (7-31-24 correction);
+          2022-2023 season JTWC SH added, 
+          2023-2024 season Wellington and Nadi data added
+ 8-14-24: 2023 JTWC NH, HKO, KMA and IMD data added; 
+	  BOM updated with data from 7-30-24; 
+	  JMA updates to SUSAN 1963 and SARAH 1983
+ 6-21-24: 2023 NHC ATCF data added
